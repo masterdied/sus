@@ -1,0 +1,28 @@
+body{
+	background: url(nr.gif);
+	background-size: 100%;
+}
+h1{
+	background: black;
+	color: darkred;
+	border-bottom: 5px solid darkcyan;
+	border-top: 5px solid darkcyan;
+	border-left: 5px solid darkcyan;
+	border-right: 5px solid darkcyan;
+}
+form{
+	background: black;
+	color: darkred;
+	border-bottom: 5px solid darkcyan;
+	border-top: 5px solid darkcyan;
+	border-left: 5px solid darkcyan;
+	border-right: 5px solid darkcyan;
+}
+table{
+		background: black;
+	color: darkred;
+	border-bottom: 5px solid darkcyan;
+	border-top: 5px solid darkcyan;
+	border-left: 5px solid darkcyan;
+	border-right: 5px solid darkcyan;
+}
